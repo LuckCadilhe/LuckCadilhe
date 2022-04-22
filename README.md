@@ -1,7 +1,7 @@
 Hi 👋 My name is Lucas Cadilhe
 ==============================
 
-Aspiring Front End Dev.
+Aspiring Dev Front End.
 -----------------------
 
 * 🌍  I'm based in São Luís-Maranhão/Brazil
