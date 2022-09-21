@@ -6,7 +6,7 @@ Aspiring Dev Front End.
 
 * 🌍  I'm based in São Luís-Maranhão/Brazil
 * ✉️  You can contact me at [lucas\_cadilhe@hotmail.com](mailto:lucas_cadilhe@hotmail.com)
-* 🧠  I'm learning Node.js/Bootstrap/PHP
+* 🧠  I'm learning Node.js/PHP
 
 ### Skills
 
