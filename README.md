@@ -26,10 +26,6 @@ Dev Front End.
 
 ### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/LuckCadilhe"><img src="https://github-readme-stats.vercel.app/api?username=LuckCadilhe&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="LuckCadilhe's GitHub stats" /></a>
-
   ![Snake animation](https://github.com/LuckCadilhe/LuckCadilhe/blob/output/github-contribution-grid-snake.svg)
 
 <a href="https://github.com/LuckCadilhe" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuckCadilhe&langs_count=10&title_color=84cc16&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
